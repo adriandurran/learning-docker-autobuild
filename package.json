@@ -4,7 +4,7 @@
   "description": "test docker auto build",
   "main": "index.js",
   "scripts": {
-    "prod": "NODE_ENV=production nodeindex.js"
+    "prod": "NODE_ENV=production node index.js"
   },
   "author": "adrian.durran@digital.cabinet-office.gov.uk",
   "license": "MIT",

@@ -1,2 +1,11 @@
 node_modules
+package-lock.json
+Dockerfile
+.gitignore
+.dockerignore
 client/node_modules
+client/build
+client/README.md
+client/.gitignore
+client/yarn.lock
+client/package-lock.json

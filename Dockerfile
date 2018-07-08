@@ -12,3 +12,4 @@ RUN npm run build --production
 WORKDIR /usr/src/app
 EXPOSE 5090
 CMD ["node","index.js"]
+
